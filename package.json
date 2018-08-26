@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "business side of the crafts project",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman40/crafts-server.git"
+  },
+  "keywords": [
+    "hand",
+    "crafts"
+  ],
+  "author": "Aman Haman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aman40/crafts-server/issues"
+  },
+  "homepage": "https://github.com/Aman40/crafts-server#readme"
+}
