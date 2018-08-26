@@ -4,6 +4,9 @@ const app = express();
 const session = require('express-session');
 const MySqlStore = require('express-mysql-session');
 const mysql = require('mysql');
+const facade = require('./mod_facade');
+const provider = require('./mod_provider');
+const manager = require('./mod_manager');
 app.listen(80);
 
 /**
